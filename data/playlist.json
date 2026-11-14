@@ -6,27 +6,27 @@
    "art": "assets/images/freeman.jpg"
  },
  {
-  "title": "on dat bxtch",
-  "artist": "Lumi athena",
-  "src": "assets/music/on-dat.mp3",
-  "art": "assets/images/ondat.jpg"
+  "title": "Оружия",
+  "artist": "Группа пицца",
+  "src": "assets/music/pizza.mp3",
+  "art": "assets/images/pizza.jpeg"
  },
  {
-  "title": "Track Three",
-  "artist": "Artist Name",
-  "src": "assets/music/track3.mp3",
-  "art": ""
+  "title": "Enter Sandman",
+  "artist": "Metallica",
+  "src": "assets/music/enter.mp3",
+  "art": "assets/images/enter.jpeg"
  },
  {
-  "title": "Track Four",
-  "artist": "Artist Name",
-  "src": "assets/music/track4.mp3",
-  "art": ""
+  "title": "Snowman",
+  "artist": "Sie",
+  "src": "assets/music/sie.mp3",
+  "art": "assets/images/sie.jpeg"
  },
  {
-  "title": "Track Five",
-  "artist": "Artist Name",
-  "src": "assets/music/track5.mp3",
-  "art": ""
+  "title": "Monster in paris",
+  "artist": "Sean Lennon",
+  "src": "assets/music/monster.mp3",
+  "art": "assets/images/monster.jpeg"
  }
 ]
