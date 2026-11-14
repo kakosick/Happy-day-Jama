@@ -3,5 +3,6 @@
 
 window.VELVET_CONFIG = {
   SUPABASE_URL: "https://gelukzhiphgwvwoqppiw.supabase.co",
-  SUPABASE_ANON_KEY: "sb_publishable_NVltghLOUq9_HqfyA9G82w_x8PLwiEm"
+  SUPABASE_ANON_KEY: "sb_publishable_NVltghLOUq9_HqfyA9G82w_x8PLwiEm",
+  YOUTUBE_API_KEY: "AIzaSyA5HvAw1JrJu0D5s5XjaYmrMjRih-g8QV0"
 };
