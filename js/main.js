@@ -2,7 +2,7 @@ let T,PLAYLIST;
 const PHOTO="assets/photo.jpg";
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
 const reduce=matchMedia("(prefers-reduced-motion:reduce)").matches;
-let lang="en";try{lang=localStorage.getItem("velvet-lang")||"en"}catch(e){}
+let lang="ru";
 
 const tr=k=>T[lang][k];
 
